@@ -3,7 +3,7 @@
 Spotify Top 50 Songs - Analysis
 UK and US Data
 (May 18, 2023 - Jan 12, 2024)
-Analysis of the top 50 songs(daily) in the UK and the US over the course of 8 months.
+Analysis of the top 50 songs(daily-210 days) in the UK and the US over the course of 8 months.
 
 - Preprocessing (clean datasets)
   
